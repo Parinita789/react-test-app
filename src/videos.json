@@ -1,0 +1,16 @@
+[
+    { 
+        "name": "Nasa", 
+        "title": "fdgfdg",
+        "image": "src/dummy-image.jpeg",
+        "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd"
+    },
+    { "name": "Microsoft", "title": "fdgfdg", "image": "https://picsum.photos/seed/picsum/100/50","url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Phillips", "title": "fdgfdg","image": "https://picsum.photos/100/50?grayscale","url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "Fox", "title": "fdgfdg", "image": "https://picsum.photos/seed/picsum/100/50","url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Sony", "title": "fdgfdg", "image": "https://picsum.photos/100/50?grayscale","url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "IBM","title": "fdgfdg",  "image": "https://picsum.photos/seed/picsum/100/50", "url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" },
+    { "name": "Toshiba","title": "fdgfdg", "image": "https://picsum.photos/100/50?grayscale", "url": "https://storage.googleapis.com/shaka-demo-assets/angel-one/dash.mpd" },
+    { "name": "Volvo","title": "fdgfdg", "image": "https://picsum.photos/seed/picsum/100/50","url": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8" }
+]
+  
